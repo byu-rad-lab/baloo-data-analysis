@@ -3,7 +3,15 @@ Data analysis and plotting code for "Baloo: A Large-Scale Hybrid Soft Robotic To
 
 
 ```bib
-fill in link and citation here
+@misc{johnson2024baloolargescalehybridsoft,
+      title={Baloo: A Large-Scale Hybrid Soft Robotic Torso for Whole-Arm Manipulation}, 
+      author={Curtis C. Johnson and Andrew Clawson and Marc D. Killpack},
+      year={2024},
+      eprint={2409.08420},
+      archivePrefix={arXiv},
+      primaryClass={cs.RO},
+      url={https://arxiv.org/abs/2409.08420}, 
+}
 ```
 
 # Figures
